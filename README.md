@@ -1,1 +1,7 @@
 # CS330_SNHU
+## How do I approach designing software?
+* In designing software for this 3D project, I adopted a user-centric approach that prioritized intuitive navigation and realistic interactions within the 3D environment. The project enhanced my skills in spatial arrangement and the aesthetic integration of elements, following an iterative design process that allowed for continuous refinement based on user feedback. These design tactics, emphasizing adaptability and user experience, will be invaluable in future software development endeavors.
+## How do I approach developing programs?
+* The development of the 3D scene was marked by the adoption of modular programming and shader techniques, which were new to me. Iteration was key, enabling the gradual enhancement of the scene’s complexity and realism. This project has evolved my coding approach to be more holistic, considering not just functionality but also performance and user engagement, a methodology I plan to carry forward.
+## How can computer science help me in reaching my goals?
+* The project has broadened my understanding of computational graphics, equipping me with skills that are applicable in both my future educational and professional pathways. Learning to create and manipulate 3D graphics has opened up new possibilities for problem-solving and creative expression, preparing me for opportunities in areas like virtual reality, simulation, and interactive media design.
